@@ -23,8 +23,8 @@ __Check out my GitHub repository:__
 
 <div>
   <p>
-    <a href="https://github.com/JuanGereda/DataScience.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=JuanGereda&repo=DataScience" alt="GitHub Stats" />
+    <a href="https://github.com/JuanGereda/Data-Science.git">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=JuanGereda&repo=Data-Science" alt="GitHub Stats" />
     </a>
   </p>
 </div>
