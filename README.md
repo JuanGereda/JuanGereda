@@ -34,7 +34,7 @@ __Check out my GitHub repository:__
   
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhargavi-hash&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanGereda&layout=compact)
 
 ---------------------------------------------------------------------------------------------------------------------
 Credits: <a href="https://github.com/Bhargavi-hash">Bhargavi-hash</a>
