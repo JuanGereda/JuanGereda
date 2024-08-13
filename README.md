@@ -12,7 +12,7 @@
 I am an Industrial Engineer. Python, SQL, DAX and R are the programming languages I am good at. I love to learn about Data Analyst and Machine Learning models.
 * **I am interested in Data Analyst, Machine Learning, and Digital Marketing**
 - 🌱 I’m currently learning ...
-  - Java
+  - Google Analytics
   - Digital Marketing
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help!😉<br>
