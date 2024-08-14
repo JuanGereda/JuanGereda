@@ -7,7 +7,7 @@
 
 <img width=300px alt="Unicorn" src="https://c.tenor.com/8nkvuog5-zMAAAAC/cat-dance.gif" />
 
-## < width="30px">&nbsp;***About me***
+## < ***About me***>
 
 I am an Industrial Engineer. Python, SQL, DAX and R are the programming languages I am good at. I love to learn about Data Analyst and Machine Learning models.
 * **I am interested in Data Analyst, Machine Learning, and Digital Marketing**
