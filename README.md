@@ -15,7 +15,7 @@ I am an Industrial Engineer with experience in information management, specializ
 - Outside tech, 📖 I love to read books, 🎮 playing videogames, 🎵 listen to music, and 🌴 travel.
 - 📫 Reach out to me at: <a href="juangereda@gmail.com">juangereda@gmail.com</a>
 - 🤓 You can check here my LinkedIn <a href="https://www.linkedin.com/in/jucage2000/">profile</a>.
-- 📄 If you want, you can find my CV <a href="https://www.drive.google.com/file/d/1RBWnj5aiaKnBOwSEzCA8JikCM8j_tS5X/view?usp=sharing">here</a>.
+- 📄 If you want, you can find my CV <a href="https://drive.google.com/file/d/1RBWnj5aiaKnBOwSEzCA8JikCM8j_tS5X/view?usp=drive_link">here</a>.
 
 __Check out my GitHub repository:__
 
