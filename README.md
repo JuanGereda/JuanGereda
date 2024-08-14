@@ -11,10 +11,6 @@
 
 I am an Industrial Engineer with experience in information management, specialized in optimizing the efficiency and productivity of data management processes. He worked with agile methodologies on technology projects and data management in industries such as technology, hydrocarbons and floriculture. The objective of this repository is show my skills and share my projects, and a way to track my progress in Data Analytics and Data Science-related topics.
 * **I am interested in Data Analyst, Machine Learning, and Digital Marketing**
-- 🌱 I’m currently learning ...
-  - Google Analytics
-  - Digital Marketing
-- 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help!😉<br>
 - Outside tech, 📖 I love to read books, 🎮 playing videogames, 🎵 listen to music, and 🌴 travel.
 - 📫 Reach out to me at: <a href="juangereda@gmail.com">juangereda@gmail.com</a>
@@ -37,4 +33,3 @@ __Check out my GitHub repository:__
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanGereda&layout=compact)
 
 ---------------------------------------------------------------------------------------------------------------------
-Credits: <a href="https://github.com/Bhargavi-hash">Bhargavi-hash</a>
