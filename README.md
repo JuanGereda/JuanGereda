@@ -10,7 +10,7 @@
 ## ***About me***
 
 I am an Industrial Engineer with experience in information management, specialized in optimizing the efficiency and productivity of data management processes. He worked with agile methodologies on technology projects and data management in industries such as technology, hydrocarbons and floriculture. The objective of this repository is show my skills and share my projects, and a way to track my progress in Data Analytics and Data Science-related topics.
-* **I am interested in Data Analyst, Machine Learning, and Digital Marketing**
+* **I am interested in Data Analyst, Machine Learning, and data Governance**
 - ✔ Ask me about anything, I am happy to help!😉<br>
 - Outside tech, 📖 I love to read books, 🎮 playing videogames, 🎵 listen to music, and 🌴 travel.
 - 📫 Reach out to me at: <a href="juangereda@gmail.com">juangereda@gmail.com</a>
