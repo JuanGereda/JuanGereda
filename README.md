@@ -9,7 +9,7 @@
 
 ## ***About me***
 
-I am an Industrial Engineer. Python, SQL, DAX and R are the programming languages I am good at. I love to learn about Data Analyst and Machine Learning models.
+I am an Industrial Engineer with experience in information management, specialized in optimizing the efficiency and productivity of data management processes. He worked with agile methodologies on technology projects and data management in industries such as technology, hydrocarbons and floriculture. The objective of this repository is show my skills and share my projects, and a way to track my progress in Data Analytics and Data Science-related topics.
 * **I am interested in Data Analyst, Machine Learning, and Digital Marketing**
 - 🌱 I’m currently learning ...
   - Google Analytics
