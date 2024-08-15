@@ -21,7 +21,7 @@ __Check out my GitHub repository:__
 
 <div>
   <p>
-    <a href="https://github.com/JuanGereda/Data-Science.git">
+    <a href="https://github.com/JuanGereda/Projects.git">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=JuanGereda&repo=Projects" alt="GitHub Stats" />
     </a>
   </p>
